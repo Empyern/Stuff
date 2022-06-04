@@ -1,0 +1,4 @@
+#tracking-protection-icon-container,
+#identity-box > .identity-box-button {
+  display: none !important;
+}
